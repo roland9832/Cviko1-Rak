@@ -6,6 +6,7 @@ public class Trieda1 {
 		System.out.println("Nazdarek");
 		/*https://github.com/roland9832/Cviko1-Rak/invitations*/
 		System.out.println("daco zas");
+		System.out.println("feature1");
 	}
 	
 
