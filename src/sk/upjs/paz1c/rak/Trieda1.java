@@ -4,6 +4,7 @@ public class Trieda1 {
 	public static void main(String[] args) {
 		System.out.println("Ahojte");
 		System.out.println("Nazdarek");
+		System.out.println("feature2");
 	}
 	
 
