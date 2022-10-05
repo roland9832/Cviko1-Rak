@@ -5,6 +5,8 @@ public class Trieda1 {
 		System.out.println("Ahojte");
 		System.out.println("Nazdarek");
 		System.out.println("feature2");
+		/*sadasfdgaff EFDBas*/
+		
 	}
 	
 
